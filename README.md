@@ -2,7 +2,7 @@
 
 <p align="center">
   Third-year computer science student at <b>NTNU Gjøvik</b> · Norway<br>
-  I like building practical tools and reverse engineering complex systems, like the undocumented API in my <a href="https://github.com/Svemeh/houston-we-have-a-packet-loss">Starlink dish</a>.
+  I like building practical tools and reverse engineering complex systems, like the local gRPC API in my <a href="https://github.com/Svemeh/houston-we-have-a-packet-loss">Starlink dish</a>.
 </p>
 
 <p align="center">
