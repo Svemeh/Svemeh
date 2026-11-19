@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR@EMAIL"><img src="https://img.shields.io/badge/Email-333?style=flat&logo=maildotru&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Open%20to-internships-2ea44f?style=flat" alt="Open to internships">
+  <a href="https://www.linkedin.com/in/sverre-m%C3%A6hlum-4a6355428"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sverre@maehlum.net"><img src="https://img.shields.io/badge/Email-333?style=flat&logo=maildotru&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open%20to-internships%20%26%20full--time%20roles-2ea44f?style=flat" alt="Open to internships and full-time roles">
 </p>
 
 ---
@@ -31,7 +31,3 @@
 ![Flutter](https://img.shields.io/badge/Flutter%20%2F%20Dart-02569B?style=flat&logo=flutter&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svemeh&layout=compact&hide_border=true&theme=github_dark" height="140" alt="Top languages">
-</p>
