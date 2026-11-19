@@ -17,7 +17,7 @@
 
 - 🎓 Studying computer science at NTNU, graduating 2027
 - 📚 This semester: machine learning, graphics programming, mobile programming, game programming, an integration project, and starting my bachelor's thesis
-- 🛠️ Interested in backend, networking and developer tooling
+- 🛠️ Interested in backend, networking and machine learning
 
 ### Tech
 
